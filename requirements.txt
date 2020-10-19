@@ -1,2 +1,4 @@
 PyYAML
 news-please
+numpy
+datasketch
