@@ -3,11 +3,12 @@
 import os
 import glob
 import logging
+import tqdm
 import multiprocessing
 from functools import partial
 
 import pandas as pd
-import tqdm
+
 from sklearn.metrics import mean_squared_error, accuracy_score
 from sklearn.metrics import precision_score, recall_score, f1_score
 import settings
