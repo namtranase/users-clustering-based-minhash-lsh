@@ -1,5 +1,7 @@
 """Validate user cluster program based on Minhasing LSH algorithm.
+@Author: namtran.ase@gmail.com.
 """
+
 import os
 import glob
 import logging
