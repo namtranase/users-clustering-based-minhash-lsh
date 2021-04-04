@@ -1,4 +1,4 @@
-# users_clustering_based_minhash_lsh
+# users-clustering-based-minhash-lsh
 
 Implement user clusters based on `MinHash LSH algorithm`.
 User clusters could server for many kind of application, such
